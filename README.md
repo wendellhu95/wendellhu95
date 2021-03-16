@@ -1,10 +1,10 @@
-### 💻 &nbsp;About Me 
+## 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Front end developer, mainly focus on rich text editor and code editor.
 - 🏢 &nbsp; Working at @tencent.
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -32,7 +32,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Contact
+## 🤝🏻 &nbsp;Contact
 
 <p align="center">
 <!-- <a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -41,5 +41,3 @@
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
