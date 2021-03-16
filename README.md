@@ -19,11 +19,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## Latest Articles
+## 📖 &nbsp;Latest Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## My Stats
+## 🎛 &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellhu95&show_icons=true&theme=radical" />
@@ -32,7 +32,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  🤝🏻 &nbsp;Contact
 
 <p align="center">
 <!-- <a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
