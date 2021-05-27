@@ -1,7 +1,7 @@
 ## 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Front end developer, mainly focus on rich text editor and code editor.
-- 🏢 &nbsp; Working at @tencent, on rick text editor Wedoc.
+- 🎓 &nbsp; Web developer, mainly focus on component kit, rich text editor and code editor.
+- 🏢 &nbsp; Working at @tencent on rick text editor Wedoc.
 
 ## 🛠 &nbsp;Tech Stack
 
