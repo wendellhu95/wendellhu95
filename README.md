@@ -1,7 +1,6 @@
 ## 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Web developer, mainly focus on component kit, rich text editor and code editor.
-- 🏢 &nbsp; Working at @tencent on rick text editor Wedoc.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -23,19 +22,15 @@
 
 ## 🎛 &nbsp;My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/wendelhu95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellhu95&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendellhu95&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
 
 ## 🤝🏻 &nbsp;Contact
 
 <p align="center">
 <!-- <a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
-<a href="mailto:wendellhu95@gamil.com"><img src="https://img.shields.io/badge/-wendellhu95@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-<!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:wendellhu95@gamil.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%E6%96%87%E5%8F%AC-%E8%83%A1-a6a162210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/wendellhu95" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
